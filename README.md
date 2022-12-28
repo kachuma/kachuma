@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kachuma
 - 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...sql,excel,python and power BI
+- 🌱 I’m currently learning ...sql, software engineering ,excel,python and power BI
 - 💞️ I’m looking to collaborate on ...all
 - 📫 How to reach me ...chaxcafe@gmail.com
 
